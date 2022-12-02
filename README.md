@@ -1,1 +1,1 @@
-# odin_recipes
+Project website with index linking to recipes
